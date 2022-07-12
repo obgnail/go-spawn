@@ -1,0 +1,9 @@
+{
+  "addr": "47.115.158.159:22",
+  "user": "heyingliang",
+  "password": "",
+  "private_key": "",
+  "ssh_dir_path": "",
+  "timeout": -1,
+  "command_chain_path": "config/commands.txt"
+}

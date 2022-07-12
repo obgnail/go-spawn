@@ -1,0 +1,4 @@
+expect "$" { sudo su }
+expect "#" { docker ps -a }
+expect "#" { docker exec -it 92a2024fa59f bash }
+expect "#" { whoami }
